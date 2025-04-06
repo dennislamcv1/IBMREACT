@@ -1,5 +1,5 @@
-# IBMReact
-## Developing Mobile Apps with React Native Specialization
+# IBMREACT
+## Developing Mobile Apps with React Native Specialization (5 course series)
 
 React Native is one of the two most popular frameworks for developing mobile apps (Statista). And with the number of smartphone users set to grow by over 30% (Statista), software developers with React Native skills are in hot demand. This specialization gives you the job-ready skills you need to catch an employer's eye or start your own app development venture.
 
